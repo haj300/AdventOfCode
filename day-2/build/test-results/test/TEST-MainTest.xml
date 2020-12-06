@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-12-02T19:30:57" hostname="hajen" time="0.004">
+  <properties/>
+  <testcase name="getUpperBound" classname="MainTest" time="0.001"/>
+  <testcase name="checkValidity_valid" classname="MainTest" time="0.0"/>
+  <testcase name="getPassword" classname="MainTest" time="0.0"/>
+  <testcase name="checkValidity_notValid" classname="MainTest" time="0.0"/>
+  <testcase name="getLetter" classname="MainTest" time="0.0"/>
+  <testcase name="checkValidity_notValidBothMatch" classname="MainTest" time="0.0"/>
+  <testcase name="getLowerBound" classname="MainTest" time="0.0"/>
+  <testcase name="validPasswords" classname="MainTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
